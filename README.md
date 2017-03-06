@@ -1,2 +1,2 @@
 # website
-simple website using html n css
+simple website using html n css.
